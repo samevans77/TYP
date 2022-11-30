@@ -1,0 +1,17 @@
+Can't pracitcally do client server, because dleay in ping, and privacy.
+Suggest local implementation. 
+
+Should run locally for higher credit.
+
+Tensorflow from google
+Pytorch from facebook
+
+up to you
+
+can change either way
+
+pytorch probably more popular recentlt (1-2 years) "no clear winner though".
+
+he uses keras (a wrapper). look into if this is installed with kubernetes.
+
+Colab from google
