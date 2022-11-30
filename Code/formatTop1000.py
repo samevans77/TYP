@@ -11,8 +11,8 @@ for line in list_of_lines:
     if(skipLine != True):
         skipLine = True
     else:
-        print(line)
-        new_lines_list.append(line)
+        print(line.strip())
+        new_lines_list.append(line.strip()+"\n")
         skipLine = False
 
 #Placing it into the file
