@@ -1,0 +1,3 @@
+This approach doesn't really work.
+7 features isn't sufficient to get high accuracy (this model produces ~30% which is unacceptable)
+Will be shelved for now unless other ideas come up.
