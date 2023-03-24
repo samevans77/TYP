@@ -1,8 +1,0 @@
-23/11/22 meeting
-
-Put generated urls through as a separate features of the overall system. likely that the DL model will learn to trust
-these less
-As a point of research, could create an entirely new model for these (likely, at the cost of some performance overall)
-and test this.
-
-Use APIs to take only plaintext html and then scan those for the URLs that I want.

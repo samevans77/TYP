@@ -1,4 +1,0 @@
-https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls
-this is using machine learning. This means we're likely to just create another model like this person just with deep learning.
-
-
